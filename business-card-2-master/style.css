@@ -1,0 +1,22 @@
+
+
+.front-side,
+.back-side {
+  width: 192px;
+  height: 288px;
+  position: relative;
+  margin: 20px auto;
+  background-color:black;
+}
+
+.front-side{
+  background-image: url('bizzcardfront.svg');
+  background-repeat: no-repeat;
+}
+
+.back-side{
+  background-image: url('bizzcardback.svg');
+  background-repeat: no-repeat;
+ }
+
+
